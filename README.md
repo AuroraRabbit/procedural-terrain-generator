@@ -9,4 +9,4 @@ All variables within the Terrain Gneeration script but the seed are able to be c
 - Gen Height: Controls the height of the generation
 - Island Falloff: Multiples the terrain height (on the Y axis) by its closeness to the centre of the terrain (on the X axis). In practice, this is used to create a smooth island falloff map.
 - Biome Dropdown: Selects which biome to generate.
-- Biome Selection (should be avoided): Contains the information about the selected biome. This can technically be changed but doing so should be avoided. 
+- Biome Selection **(should be avoided)**: Contains the information about the selected biome. This can technically be changed but doing so should be avoided. 
