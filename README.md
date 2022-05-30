@@ -2,7 +2,7 @@
 A college project with the goal of making procedural terrain look believable.
 
 ## Instructions
-All variables within the Terrain Gneeration script but the seed are able to be changed at runtime. Explanations of the variables are as follows:
+All variables within the Terrain Generation script but the seed are able to be changed at runtime. Explanations of the variables are as follows:
 - **X Size**: Controls the size of the mesh in X
 - **Y Size**: Controls the size of the mesh in Y
 - **Scale**: Zooms in and out of the noise
